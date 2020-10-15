@@ -1,0 +1,146 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "rubik's cube",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+      "imageUrl": "http://img1.joyreactor.cc/pics/post/YouTube-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0-6214697.jpeg",
+      "price": 299
+    },
+    {
+      "id": 2,
+      "name": "rubik's cube 2",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+      "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%B5%D1%81%D0%B5%D1%86-%D0%9B%D0%B8%D1%81%D0%B0-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-6214398.jpeg",
+      "price": 199
+    },
+    {
+      "id": 3,
+      "name": "rubik's cube 3",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+      "imageUrl": "http://img1.joyreactor.cc/pics/post/%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%D1%8B-%D1%81%D0%BE%D1%84%D1%82-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8B-%D0%A2%D0%B0%D0%B9%D0%BD%D0%B0-%D1%82%D1%80%D0%B5%D1%82%D1%8C%D0%B5%D0%B9-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8B-6214795.jpeg",
+      "price": 499
+    },
+    {
+      "id": 4,
+      "name": "rubik's cube 4",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+      "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B1%D1%8B%D0%BB%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BE-%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA-%D1%80%D1%8B%D0%B6%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82-%D1%82%D0%B0%D0%B7%D0%B8%D0%BA-6214416.jpeg",
+      "price": 999
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 4,
+        "name": "rubik's cube 4",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B1%D1%8B%D0%BB%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BE-%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA-%D1%80%D1%8B%D0%B6%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82-%D1%82%D0%B0%D0%B7%D0%B8%D0%BA-6214416.jpeg",
+        "price": 999
+      },
+      "id": 43
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "rubik's cube 4",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B1%D1%8B%D0%BB%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BE-%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA-%D1%80%D1%8B%D0%B6%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82-%D1%82%D0%B0%D0%B7%D0%B8%D0%BA-6214416.jpeg",
+        "price": 999
+      },
+      "id": 44
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "rubik's cube 4",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B1%D1%8B%D0%BB%D0%BE-%D1%81%D1%82%D0%B0%D0%BB%D0%BE-%D0%BA%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA-%D1%80%D1%8B%D0%B6%D0%B8%D0%B9-%D0%BA%D0%BE%D1%82-%D1%82%D0%B0%D0%B7%D0%B8%D0%BA-6214416.jpeg",
+        "price": 999
+      },
+      "id": 45
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "rubik's cube 2",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%B5%D1%81%D0%B5%D1%86-%D0%9B%D0%B8%D1%81%D0%B0-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-6214398.jpeg",
+        "price": 199
+      },
+      "id": 46
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "rubik's cube 2",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img0.joyreactor.cc/pics/post/full/%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%B5%D1%81%D0%B5%D1%86-%D0%9B%D0%B8%D1%81%D0%B0-%D1%84%D1%8D%D0%BD%D0%B4%D0%BE%D0%BC%D1%8B-6214398.jpeg",
+        "price": 199
+      },
+      "id": 47
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "rubik's cube",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img1.joyreactor.cc/pics/post/YouTube-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0-6214697.jpeg",
+        "price": 299
+      },
+      "id": 48
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "rubik's cube",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img1.joyreactor.cc/pics/post/YouTube-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0-6214697.jpeg",
+        "price": 299
+      },
+      "id": 49
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "rubik's cube",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img1.joyreactor.cc/pics/post/YouTube-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0-6214697.jpeg",
+        "price": 299
+      },
+      "id": 50
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "rubik's cube",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness",
+        "imageUrl": "http://img1.joyreactor.cc/pics/post/YouTube-%D0%B1%D0%B5%D0%B7-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0-6214697.jpeg",
+        "price": 299
+      },
+      "id": 51
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
